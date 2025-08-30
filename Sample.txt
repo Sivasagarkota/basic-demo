@@ -1,5 +1,5 @@
 //Developed by Harish
-//This line is added through remote-repository
+//content is modified through local-repo
 Hi Hello Git ..!
 
 take input from user
